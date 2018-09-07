@@ -1,2 +1,3 @@
 var num = 50;
-var truth = 'Something about truth';
+<<<<<<< HEAD
+var truth = 'truth is absolute'
